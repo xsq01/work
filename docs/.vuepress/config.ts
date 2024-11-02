@@ -1,5 +1,4 @@
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defaultTheme } from '@vuepress/theme-default'
+
 import { defineConfig } from 'vuepress/config'
 import navbar from "./navbar";
 import sidebar from "./sidebar";

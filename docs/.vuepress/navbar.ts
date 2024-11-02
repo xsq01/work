@@ -6,10 +6,6 @@ export default [
         link: '/学习路线/'
     },
     {
-        text: "学习心得",
-        link: '/学习路线/'
-    },
-    {
         text: "lsh",
         link: '/lsh/'
     },
