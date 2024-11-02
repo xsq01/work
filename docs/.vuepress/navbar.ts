@@ -9,4 +9,8 @@ export default [
         text: "学习心得",
         link: '/学习路线/'
     },
+    {
+        text: "lsh",
+        link: '/lsh/'
+    },
 ] as NavItem[];

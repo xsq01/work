@@ -16,4 +16,11 @@ export default [
       "Linux学习路线 by 程序员鱼皮.md",
     ],
   },
+  {
+    title: "lsh",
+    collapsable: false,
+    children: [
+      "lsh.md",
+    ],
+  },
 ];
