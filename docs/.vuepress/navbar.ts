@@ -6,7 +6,7 @@ export default [
         link: '/学习路线/'
     },
     {
-        text: "lsh",
-        link: '/lsh/'
+        text: "Ham",
+        link: '/Ham/'
     },
 ] as NavItem[];

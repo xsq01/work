@@ -1,10 +1,11 @@
 export default [
   "",
   {
-    title: "lsh",
+    title: "学习记录",
     collapsable: false,
     children: [
-      "c++学习路线.md"
+      "MySQL.md",
+      "Python.md",
     ],
   },
 ];
