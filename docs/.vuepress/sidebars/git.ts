@@ -1,11 +1,10 @@
 export default [
   "",
   {
-    title: "sushy学习路线",
+    title: "git使用",
     collapsable: false,
     children: [
-      "Java学习路线 by 程序员鱼皮.md",
+        "idea上使用github.md"
     ],
   },
-
 ];

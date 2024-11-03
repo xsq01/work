@@ -9,4 +9,8 @@ export default [
         text: "Ham",
         link: '/Ham/'
     },
+    {
+        text: "git",
+        link: '/git/'
+    },
 ] as NavItem[];
