@@ -2,7 +2,7 @@ export default [
   "",
   {
     title: "git使用",
-    collapsable: false,
+    collapsable: true,
     children: [
         "idea上使用github.md"
     ],
