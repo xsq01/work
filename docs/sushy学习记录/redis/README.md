@@ -1,5 +1,4 @@
-
-# git相关问题解决
-[idea上使用github](idea上使用github.md)
+# redis学习记录
+[数据结构与对象](数据结构与对象.md)
 
 
