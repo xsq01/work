@@ -2,15 +2,14 @@ import {NavItem} from "vuepress/config";
 
 export default [
     {
-        text: "sushy学习路线",
-        link: '/sushy学习路线/'
+        text: "SuShy学习记录",
+        items: [
+            {text: "git",link: '/sushy学习记录/git/'},
+            {text: "redis",link: '/sushy学习记录/redis/'},
+        ]
     },
     {
         text: "Ham",
         link: '/Ham/'
-    },
-    {
-        text: "git",
-        link: '/git/'
     },
 ] as NavItem[];
