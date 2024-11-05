@@ -9,7 +9,10 @@ export default [
         ]
     },
     {
-        text: "Ham",
-        link: '/Ham/'
+        text: "Ham学习记录",
+        items: [
+            {text: "MySQL", link: '/Ham/MySQL/'},
+            {text: "Pytorch", link: '/Ham/Pytorch/'},
+        ]
     },
 ] as NavItem[];
