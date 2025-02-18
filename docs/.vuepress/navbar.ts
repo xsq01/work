@@ -7,6 +7,7 @@ export default [
         items: [
             {text: "git",link: '/sushy学习记录/git/'},
             {text: "redis",link: '/sushy学习记录/redis/'},
+            {text: "os",link: '/sushy学习记录/os/'},
         ]
     },
     {
