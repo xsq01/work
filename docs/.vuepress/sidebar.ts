@@ -4,11 +4,13 @@ import redis from "./sidebars/redis";
 import MySQL from "./sidebars/MySQL";
 import Pytorch from "./sidebars/Pytorch";
 import os from "./sidebars/os";
+import JavaWeb from "./sidebars/JavaWeb";
 
 // @ts-ignore
 export default {
     "/Ham/MySQL/": MySQL,
     "/Ham/Pytorch/": Pytorch,
+    "/Ham/javaweb/": JavaWeb,
     "/sushy学习记录/git/": git,
     "/sushy学习记录/redis/": redis,
     "/sushy学习记录/操作系统/": os,

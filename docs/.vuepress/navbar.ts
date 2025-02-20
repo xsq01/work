@@ -15,6 +15,7 @@ export default [
         items: [
             {text: "MySQL", link: '/Ham/MySQL/'},
             {text: "Pytorch", link: '/Ham/Pytorch/'},
+            {text: "JavaWeb", link: '/Ham/javaweb/'}
         ]
     },
 ] as NavItem[];
