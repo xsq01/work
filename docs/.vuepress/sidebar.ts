@@ -13,7 +13,7 @@ export default {
     "/Ham/javaweb/": JavaWeb,
     "/sushy学习记录/git/": git,
     "/sushy学习记录/redis/": redis,
-    "/sushy学习记录/os/": os,
+    "/sushy学习记录/操作系统/": os,
     // 降级，默认根据文章标题渲染侧边栏
     "/": "auto",
 } as SidebarConfig4Multiple;
